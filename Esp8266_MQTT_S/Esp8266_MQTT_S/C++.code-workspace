@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../C++"
+		},
+		{
+			"name": "test1",
+			"path": "C:/Users/Owner/Documents/PlatformIO/Projects/test1"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.cpp": "cpp",
+			"iostream": "cpp"
+		}
+	}
+}
